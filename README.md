@@ -3,7 +3,7 @@
 I'm Gustavo, a student at Microverse.
 
 - 🔭 I’m currently working on becoming a full-stack web developer
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Ruby
 - ⚡ Fun fact: I love the terminal 👨‍💻
 - 📫 How to reach me: 
 
