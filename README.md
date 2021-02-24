@@ -8,7 +8,7 @@ I'm Gustavo, a student at Microverse.
 - 📫 How to reach me: 
 
 <p align="center">
-    <a href="https://github.com/gscarv13"><img src="https://img.icons8.com/cute-clipart/50/000000/github.png"/></a>
+    <!--a href="https://github.com/gscarv13"><img src="https://img.icons8.com/cute-clipart/50/000000/github.png"/></a-->
     <a href="https://twitter.com/Gscarv13"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
     <a href="https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/"><img src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png"/></a>
 </p>
