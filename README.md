@@ -1,13 +1,3 @@
-<style>
-    .hero {
-        border: #f1f1f1 solid 1px;
-        border-radius: 8px;
-        object-fit: cover;
-        box-shadow: 5px 5px 3px rgb(0 0 0 / 20%);
-        margin-bottom: 50px;
-    }
-</style>
-
 <img class="hero" src="/assets/hero427r.png">
 
 
@@ -18,7 +8,7 @@
 </p>
 
 
-<h5 align="center">📫 You can reach me through the following channels:</h5>
+<h4 align="center">📫 You can reach me through the following channels:</h4>
 
 
 
