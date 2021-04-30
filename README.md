@@ -1,4 +1,15 @@
-![banner](/assets/banner3.png)
+<style>
+    .hero {
+        border: #f1f1f1 solid 1px;
+        border-radius: 8px;
+        object-fit: cover;
+        box-shadow: 5px 5px 3px rgb(0 0 0 / 20%);
+        margin-bottom: 50px;
+    }
+</style>
+
+<img class="hero" src="/assets/hero427r.png">
+
 
 <p align="center">Feel free to check some of my work, the best ones are pinned down bellow ✌️ </p>
     
@@ -7,14 +18,22 @@
 </p>
 
 
-<h3 align="center">📫 You can reach me through the following channels:</h3>  
+<h5 align="center">📫 You can reach me through the following channels:</h5>  
 <p align="center">
     <!--a href="https://github.com/gscarv13"><img src="https://img.icons8.com/cute-clipart/50/000000/github.png"/></a-->
     <a href="https://twitter.com/Gscarv13">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAABmJLR0QA/wD/AP+gvaeTAAADAElEQVRYhe2YwUsqQRjAPzUqj5qGCHoIFIMgROpSmNB5UTzoQaQ8KYTYUSjwH+gUnZKgXKGbXj0keCgUEvTQQTp0kCCpg6AhSavzDvPeFrrqOjuSPvqddr+dmf2x37czsytDCMH0If9pAWF+tcbhV2sc5sQ0SiQSLMtOyGB9ff3k5KQnKErr6enp5uZmAkoAABzH9QdnOYkMw+j1ero3zufzl5eXg66K0rLZbDabjZ4SAMD8/PwQrdlJ4vX1dbVandD9tra2tre3RzYT0Do/P8/lchNQAgCIxWJitGYniTwOh8NsNlO5TS6Xe3x8FN9+mNbe3t7+/r5kJQCAQCAwltaUJpFECyF0f3//+vpK3YaHRCsajW5ubloslpeXF+pCGBItvGzX6/VisUjb5y8kWt1uFx90Oh2qMl9MacmLWqoHwbJsoVDgTw0GQygUUigUkq2kaaVSqZ4Ix3GRSETKmJj/MYlut9tkMvGnRqMxGAxKVgKQqOX3+10uFxWPHkiSqFQq8cHkJnqSp2W1WvP5PADEYjGEkFqtxvHV1dW1tbUf0wqHwxcXF+12u1arhUIhPi6TydLptNPplK5FkkSLxXJ1dbWwsNATRwiVSiXpTkBc8l6v12q1np6elkqldruNgysrKwcHByJHWFpawl9TgjtN8jfRbDafnZ0Rd2cYhmGYQVdncDpttVr1el3wkkql6g9yHNdsNgXb84kWC+rD4XCM7BWPx/s7+v3+kR3xnDISwiSGw+FyudwjSvFnE6HWx8eHx+NpNBr49OHh4fDwkJYTAMj6f4A3m03Bf06Yu7s7p9OJN6g+ny+ZTL6/v29sbFQqFQBYXl6+vb3VaDSDui8uLvJr1zDEZLqHo6Mjvns8HudLSi6XZzIZggH7IdHiOG5nZwerzM19vcvHx8dUnAi1EEK1Wk2n031/6na7/fPz84e1EELZbJbftmu12ufnZ1pOkrTQvyKjWFI8krQ6nc7u7i7FkuIRmCDG4u3tTa1WU/kI+45UrQkxpTuIKdX6A0RDSICSC/NOAAAAAElFTkSuQmCC">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g transform="translate(4.73,4.73) scale(0.945,0.945)"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="none" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g fill="#000000" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"><path d="M150.5,50.16667v71.66667c0,15.83117 -12.8355,28.66667 -28.66667,28.66667h-71.66667c-15.83117,0 -28.66667,-12.8355 -28.66667,-28.66667v-71.66667c0,-15.83117 12.8355,-28.66667 28.66667,-28.66667h71.66667c15.83117,0 28.66667,12.8355 28.66667,28.66667zM130.806,58.96017c-3.68367,1.849 -6.75817,2.45817 -10.44183,3.0745c3.68367,-2.451 6.75817,-5.5255 7.98367,-9.8255c-3.0745,1.84183 -6.75817,3.68367 -11.05817,4.3c-3.0745,-3.68367 -7.98367,-5.5255 -12.9,-5.5255c-9.83267,0 -17.81633,7.99083 -17.81633,17.81633c0,1.84183 0.61633,3.0745 0.61633,4.3c-14.74183,-0.60917 -27.64183,-7.98367 -36.24183,-18.4255c-1.84183,2.45817 -2.45817,5.5255 -2.45817,8.6c0,6.14183 3.06733,11.05817 7.98367,15.35817c-3.06733,-0.61633 -5.5255,-1.23267 -7.98367,-2.45817c0,8.6 6.14183,15.35817 14.1255,17.2c-1.84183,0.61633 -3.0745,0.61633 -4.91633,0.61633c-0.61633,0 -1.849,-0.61633 -3.0745,-0.61633c2.45817,6.75817 8.6,12.28367 16.58367,12.28367c-6.14183,4.3 -14.13267,7.3745 -22.11633,7.3745c-1.2255,0 -3.0745,0 -4.3,0c7.98367,4.90917 17.2,7.98367 27.0255,7.98367c32.55817,0 50.3745,-27.03267 50.3745,-50.3745c0,-1.23267 0,-1.84183 0,-2.45817c3.0745,-2.45817 6.14183,-5.5255 8.61433,-9.2235z"></path></g><path d="M0,172v-172h172v172z" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path><g fill="#000000" stroke="none" stroke-width="1" stroke-linejoin="miter"><path d="M121.83333,21.5h-71.66667c-15.83117,0 -28.66667,12.8355 -28.66667,28.66667v71.66667c0,15.83117 12.8355,28.66667 28.66667,28.66667h71.66667c15.83117,0 28.66667,-12.8355 28.66667,-28.66667v-71.66667c0,-15.83117 -12.8355,-28.66667 -28.66667,-28.66667zM122.19167,68.18367c0,0.61633 0,1.2255 0,2.45817c0,23.34183 -17.81633,50.3745 -50.3745,50.3745c-9.8255,0 -19.04183,-3.0745 -27.0255,-7.98367c1.2255,0 3.0745,0 4.3,0c7.98367,0 15.9745,-3.0745 22.11633,-7.3745c-7.98367,0 -14.1255,-5.5255 -16.58367,-12.28367c1.2255,0 2.45817,0.61633 3.0745,0.61633c1.84183,0 3.0745,0 4.91633,-0.61633c-7.98367,-1.84183 -14.1255,-8.6 -14.1255,-17.2c2.45817,1.2255 4.91633,1.84183 7.98367,2.45817c-4.91633,-4.3 -7.98367,-9.21633 -7.98367,-15.35817c0,-3.0745 0.61633,-6.14183 2.45817,-8.6c8.6,10.44183 21.5,17.81633 36.24183,18.4255c0,-1.2255 -0.61633,-2.45817 -0.61633,-4.3c0,-9.8255 7.98367,-17.81633 17.81633,-17.81633c4.91633,0 9.8255,1.84183 12.9,5.5255c4.3,-0.61633 7.98367,-2.45817 11.05817,-4.3c-1.2255,4.3 -4.3,7.3745 -7.98367,9.8255c3.68367,-0.61633 6.75817,-1.2255 10.44183,-3.0745c-2.4725,3.698 -5.53983,6.76533 -8.61433,9.2235z"></path></g><path d="" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path></g></g></svg>
     </a>
-    <a href="https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/"><img src="https://img.icons8.com/fluent-systems-regular/50/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g transform="translate(1.978,1.978) scale(0.977,0.977)"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="none" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g fill="#000000" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"><path d="M131.6875,26.875c7.34864,0 13.4375,6.08887 13.4375,13.4375v91.375c0,7.34864 -6.08886,13.4375 -13.4375,13.4375h-91.375c-7.34863,0 -13.4375,-6.08886 -13.4375,-13.4375v-91.375c0,-7.34863 6.08887,-13.4375 13.4375,-13.4375zM37.625,40.3125v91.375c0,1.53271 1.15479,2.6875 2.6875,2.6875h91.375c1.53271,0 2.6875,-1.15479 2.6875,-2.6875v-91.375c0,-1.53271 -1.15479,-2.6875 -2.6875,-2.6875h-91.375c-1.53271,0 -2.6875,1.15479 -2.6875,2.6875zM65.33984,56.10156c0,5.10205 -4.13623,9.23828 -9.23828,9.23828c-5.10205,0 -9.23828,-4.13623 -9.23828,-9.23828c0,-5.10205 4.13623,-9.23828 9.23828,-9.23828c5.10205,0 9.23828,4.13623 9.23828,9.23828zM123.625,95.57422v28.05078h-15.78906v-24.85937c0,-5.9209 -0.10498,-13.4375 -8.23047,-13.4375c-8.25146,0 -9.57422,6.4458 -9.57422,13.10156v25.19531h-15.78906v-51.0625h15.11719v7.05469h0.33594c2.1206,-4.01026 7.24365,-8.23047 14.94922,-8.23047c16.06201,0 18.98047,10.45606 18.98047,24.1875zM64.33203,72.5625v51.0625h-15.95703v-51.0625z"></path></g><path d="M0,172v-172h172v172z" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path><g fill="#000000" stroke="none" stroke-width="1" stroke-linejoin="miter"><path d="M40.3125,26.875c-7.34863,0 -13.4375,6.08887 -13.4375,13.4375v91.375c0,7.34864 6.08887,13.4375 13.4375,13.4375h91.375c7.34864,0 13.4375,-6.08886 13.4375,-13.4375v-91.375c0,-7.34863 -6.08886,-13.4375 -13.4375,-13.4375zM40.3125,37.625h91.375c1.53271,0 2.6875,1.15479 2.6875,2.6875v91.375c0,1.53271 -1.15479,2.6875 -2.6875,2.6875h-91.375c-1.53271,0 -2.6875,-1.15479 -2.6875,-2.6875v-91.375c0,-1.53271 1.15479,-2.6875 2.6875,-2.6875zM56.10156,46.86328c-5.10205,0 -9.23828,4.13623 -9.23828,9.23828c0,5.10205 4.13623,9.23828 9.23828,9.23828c5.10205,0 9.23828,-4.13623 9.23828,-9.23828c0,-5.10205 -4.13623,-9.23828 -9.23828,-9.23828zM104.64453,71.38672c-7.70557,0 -12.82861,4.22021 -14.94922,8.23047h-0.33594v-7.05469h-15.11719v51.0625h15.78906v-25.19531c0,-6.65576 1.32276,-13.10156 9.57422,-13.10156c8.12549,0 8.23047,7.5166 8.23047,13.4375v24.85938h15.78906v-28.05078c0,-13.73144 -2.91846,-24.1875 -18.98047,-24.1875zM48.375,72.5625v51.0625h15.95703v-51.0625z"></path></g><path d="" fill="none" stroke="none" stroke-width="1" stroke-linejoin="miter"></path></g></g></svg>
+    </a>
 </p>
 
 
-Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+> Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
